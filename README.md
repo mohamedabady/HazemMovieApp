@@ -7,7 +7,7 @@ Users can save their favourite picks easily.
 
 ### Development Environment
 
-The App is produced using react native v 61.5.
+The App is produced using react native v 63.3.
 
 The app is completely based on react hooks and custom hooks.
 
